@@ -4,4 +4,7 @@ class pw
      {
       //code
       }
+ {
+      //code2
+      }
 }
