@@ -1,0 +1,15 @@
+class pw 
+{
+    public void m1()
+     {
+      //code
+      }
+ {
+      //code2
+      }
+}
+      //code3
+      }
+ {
+      //code4
+      }
